@@ -1,6 +1,7 @@
 # IMPACT!N
 
 ### Volunteer Event Discovery Platform
+![ImpactIn Homepage](ui.png)
 
 ImpactIn is a digital platform designed to help people discover and explore volunteer opportunities based on their interests and preferences.
 
